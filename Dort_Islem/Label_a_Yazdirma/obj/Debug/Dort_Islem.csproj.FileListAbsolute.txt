@@ -1,0 +1,11 @@
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\bin\Debug\Label_a_Yazdirma.exe.config
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\bin\Debug\Label_a_Yazdirma.exe
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\bin\Debug\Label_a_Yazdirma.pdb
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Dort_Islem.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Dort_Islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Label_a_Yazdirma.Form1.resources
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Label_a_Yazdirma.Properties.Resources.resources
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Dort_Islem.csproj.GenerateResource.cache
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Dort_Islem.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Label_a_Yazdirma.exe
+C:\Users\90551\source\repos\Label_a_Yazdirma\Label_a_Yazdirma\obj\Debug\Label_a_Yazdirma.pdb
